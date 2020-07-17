@@ -2,16 +2,16 @@
 
 <img src="https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif" width="200px">
 
-Adım Aybüke Meydan.İTÜ Matematik Mühendisliğin'den yeni mezun oldum ve buraya veri bilimi projelerimle donatmak için geldim.✨
+Adım Aybüke Meydan.👩‍💻 İTÜ Matematik Mühendisliğinden yeni mezun oldum.🐝 Veri Bilimi ve derin öğrenme alanlarında kendimi geliştirmekteyim.
 
 
-🔭 Şu an çalışmıyorum ama aktif olarak beni gerçek hayattaki verilerle buluşmamı sağlayacak iş arayışı içerisindeyim.
-🌱 Kendimi daha ileri düzeye getirmek için Metis'in İstanbul'daki programı İstanbul Data Science Academy'de eğitim almaktayım.Ayrıca DataCamp kurslarını ve PacktPub'un workshoplarından da faydalanıyorum.
+🔭 Şu an çalışmıyorum ama beni gerçek hayattaki verilerle buluşmamı sağlayacabilecek bir iş arayışı içerisindeyim.
+🌱 Kendimi veri bilimi alanında daha ileri düzeye getirmek için Metis'in İstanbul'daki programı olan İstanbul Data Science Academy'den eğitim almaktayım.Ayrıca DataCamp kurslarını ve PacktPub'un workshoplarından da faydalanıyorum.
 
 
 <br/>⚡ **İlgi Alanlarım:** <br/>
 
-⚡ İlgi alanım ChatBotlar🤖.Bu konuda şu anda bir çalışma yapmadım ama yapabilmek adına adımlarımı sağlam atmak için kendime katkı sağlama peşindeyim.
+⚡ İlgi alanım ChatBotlar🤖.Bu konuda şu anda bir çalışma yapmadım ama yapabilmek adına adımlarımı sağlam atmak için çabalıyorum.
 
 <br/>**📫 İletişim Bilgilerim:** <br/>
 
@@ -28,7 +28,7 @@ Adım Aybüke Meydan.İTÜ Matematik Mühendisliğin'den yeni mezun oldum ve bur
 </a></br>
 
 
-<br/> **💻 Çalıştığım Teknolojiler:**
+<br/> **👩‍💻 Çalıştığım Teknolojiler:**
 
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
