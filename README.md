@@ -1,6 +1,6 @@
 ### Selam herkese! 
 
-<img src="https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif" width="90px">
+<img src="https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif" width="200px">
 
 Adım Aybüke Meydan.İTÜ Matematik Mühendisliğin'den yeni mezun oldum ve buraya veri bilimi projelerimle donatmak için geldim.✨
 
