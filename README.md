@@ -1,6 +1,6 @@
 ### Selam herkese! 
 
-![Hello](https://www.reddit.com/r/reactiongifs/comments/6kxr8v/mrw_im_going_down_on_my_girlfriend_and_her/)
+![Hello](http://gph.is/2t7EBux)
 
 Adım Aybüke Meydan.İTÜ Matematik Mühendisliğin'den yeni mezun oldum ve buraya veri bilimi projelerimle donatmak için geldim.✨
 
