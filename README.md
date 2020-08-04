@@ -6,8 +6,7 @@ Adım Aybüke Meydan.👩‍💻 İTÜ Matematik Mühendisliğinden yeni mezun o
 
 
 🔭 Şu an çalışmıyorum ama beni gerçek hayattaki verilerle buluşturacak bir iş arayışı içerisindeyim.
-🌱 Veri bilimi alanında daha ileri düzeye gelebilmek adına Metis'in İstanbul'daki programı olan İstanbul Data Science Academy'de eğitim almaktayım.Ayrıca DataCamp kurslarından ve PacktPub'un workshoplarından da faydalanıyorum.
-
+🌱 Veri bilimi alanında daha ileri düzeye gelebilmek adına Metis'in İstanbul'daki programı olan İstanbul Data Science Academy'de eğitim almaktayım.Ayrıca Deep Learning Türkiye'de AI Talent Programme üyesiyim.
 
 <br/>⚡ **İlgi Alanlarım:** <br/>
 
