@@ -35,7 +35,7 @@ Adım Aybüke Meydan.👩‍💻 İTÜ Matematik Mühendisliğinden yeni mezun o
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 
 
-[![HitCount](http://hits.dwyl.io/{aybukemeydan}/{aybukemeydan}.svg)](http://hits.dwyl.io/{aybukemeydan}/{aybukemeydan})
+
 <!--
 **aybukemeydan/aybukemeydan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
