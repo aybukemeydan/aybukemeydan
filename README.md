@@ -25,10 +25,10 @@ Adım Aybüke Meydan.👩‍💻 İTÜ Matematik Mühendisliğinden yeni mezun o
 
 <a href="https://twitter.com/aybukemy">
  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a></br>
+</a>
 
 <a href="istaybuke@hotmail.com">
- <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+ <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a></br>
 
 
