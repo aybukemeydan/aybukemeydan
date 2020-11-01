@@ -49,8 +49,7 @@ Adım Aybüke Meydan.👩‍💻 İTÜ Matematik Mühendisliğinden yeni mezun o
 ### English
 * [EDA PROJECT: What kind of paid application should a developer develop for the App Store?](https://medium.com/@foreverflash95/eda-project-what-kind-of-paid-application-should-a-developer-develop-for-the-app-store-c98fcbc8111f)
 * [ML Project : Prediction Hotel Booking Cancellation](https://medium.com/@foreverflash95/ml-project-prediction-hotel-booking-cancellation-a4c5bef7623f)
-* [Veri Görselleştirme 4.0](https://medium.com/@mertcobanov/veri-g%C3%B6rselle%C5%9Ftirme-4-0-849a7903952b)
-* [https://medium.com/analytics-vidhya/restaurant-reviews-sentiment-analysis-and-reccomendation-9bdf31a0b20](https://medium.com/analytics-vidhya/restaurant-reviews-sentiment-analysis-and-reccomendation-9bdf31a0b20)
+* [Restaurant Reviews Sentiment Analysis And Recomendation](https://medium.com/analytics-vidhya/restaurant-reviews-sentiment-analysis-and-reccomendation-9bdf31a0b20)
 
 ### Türkçe
 * [EDA: App Store’da Ne Tarz Ücretli Bir Uygulama Geliştirilebilir?](https://medium.com/@foreverflash95/eda-app-storeda-ne-tarz-%C3%BCcretli-bir-uygulama-geli%C5%9Ftirilebilir-363cb0fa83a4)
