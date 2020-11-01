@@ -35,13 +35,26 @@ Adım Aybüke Meydan.👩‍💻 İTÜ Matematik Mühendisliğinden yeni mezun o
 
 <br/> **👩‍💻 Çalıştığım Teknolojiler:**
 
+<br>
 <code><a href="" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 
+</br>
+<br>
+## Blogs
+### English
+* [EDA PROJECT: What kind of paid application should a developer develop for the App Store?](https://medium.com/@foreverflash95/eda-project-what-kind-of-paid-application-should-a-developer-develop-for-the-app-store-c98fcbc8111f)
+* [ML Project : Prediction Hotel Booking Cancellation](https://medium.com/@foreverflash95/ml-project-prediction-hotel-booking-cancellation-a4c5bef7623f)
+* [Veri Görselleştirme 4.0](https://medium.com/@mertcobanov/veri-g%C3%B6rselle%C5%9Ftirme-4-0-849a7903952b)
+* [https://medium.com/analytics-vidhya/restaurant-reviews-sentiment-analysis-and-reccomendation-9bdf31a0b20](https://medium.com/analytics-vidhya/restaurant-reviews-sentiment-analysis-and-reccomendation-9bdf31a0b20)
 
+### Türkçe
+* [EDA: App Store’da Ne Tarz Ücretli Bir Uygulama Geliştirilebilir?](https://medium.com/@foreverflash95/eda-app-storeda-ne-tarz-%C3%BCcretli-bir-uygulama-geli%C5%9Ftirilebilir-363cb0fa83a4)
+* [ML Project : Sarıyer Ev Kirası Tahmini](https://medium.com/@foreverflash95/ml-project-sar%C4%B1yer-ev-kiras%C4%B1-tahmini-7da11df1c)
 
+</br>
 <!--
 **aybukemeydan/aybukemeydan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
