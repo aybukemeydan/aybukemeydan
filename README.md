@@ -2,16 +2,12 @@
 
 <img src="https://media.giphy.com/media/S9RKaj4E4dhWvKfMHf/giphy.gif" width="200px">
 
-Adım Aybüke Meydan.👩‍💻 İTÜ Matematik Mühendisliğinden yeni mezun oldum.🐝 Veri Bilimi ve derin öğrenme alanlarında kendimi geliştirmekteyim.
+Adım Aybüke Meydan.👩‍💻 İTÜ Matematik Mühendisliğinden mezun oldum.🐝 Veri Bilimi ve derin öğrenme alanlarında kendimi geliştirmekteyim.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aybukemeydan&color=ff69b4" alt="aybukemeydan" /> </p>
 
 🔭 Şu an çalışmıyorum ama beni gerçek hayattaki verilerle buluşturacak bir iş arayışı içerisindeyim.
-🌱 Veri bilimi alanında daha ileri düzeye gelebilmek adına Metis'in İstanbul'daki programı olan İstanbul Data Science Academy'de eğitim almaktayım.Ayrıca Deep Learning Türkiye'de AI Talent Programme üyesiyim.
-
-<br/>⚡ **İlgi Alanlarım:** <br/>
-
-⚡ İlgi alanım ChatBotlar🤖.
+🌱 Veri bilimi alanında daha ileri düzeye gelebilmek adına Metis'in İstanbul'daki programı olan İstanbul Data Science Academy'deki eğitimi tamamladım. Veri mühendisliği eğitimine başladım. Donanımlı bir Veri Bilimci olmak için her türlü bilgiyi özümseyip kullanmaya niyetliyim.
 
 <br/>**📫 İletişim Bilgilerim:** <br/>
 
